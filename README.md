@@ -50,3 +50,7 @@ The laboratory also demonstrates basic Git version control operations, including
 - Pushing changes to GitHub
 - Creating a Pull Request
 - Merging changes into the `main` branch
+
+---
+
+This repository demonstrates the Git version control workflow required for Laboratory 1, including repository cloning, branch creation, committing changes, pushing a branch, and creating a pull request.
