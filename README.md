@@ -20,7 +20,6 @@ The laboratory focuses on software development tools and standards, GitHub repos
 ---
 
 ## 🎯 Learning Outcomes  
-At the end of this laboratory, the student should be able to:  
 1. Identify software development tools and standards used in software projects.
 2. Create and manage a GitHub repository.
 3. Apply Git version control commands.
