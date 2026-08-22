@@ -9,8 +9,7 @@ School of AI, Electrical, Electronics, and Computer Engineering
 > _Created on Saturday, August 22, 2026_
 
 ## About  
-This repository contains the requirements and outputs for **Laboratory 1** of **CPE106L-4 SOFTWARE DESIGN LABORATORY**  
-The laboratory focuses on software development tools and standards, GitHub repository management, Git version control, collaboration through GitHub, and proper documentation and coding practices. The activity simulates the responsibilities of a junior software developer working in a software company where GitHub is used for source code management and software quality is maintained through coding standards and documentation.
+This repository contains the requirements and outputs for **Laboratory 1** of **CPE106L-4 SOFTWARE DESIGN LABORATORY** The laboratory focuses on software development tools and standards, GitHub repository management, Git version control, collaboration through GitHub, and proper documentation and coding practices. The activity simulates the responsibilities of a junior software developer working in a software company where GitHub is used for source code management and software quality is maintained through coding standards and documentation.
 
 ---
 
