@@ -1,10 +1,11 @@
- # Software Versioning Laboratory  
+ # Software-Versioning-Lab 
 Mapúa University  
 School of AI, Electrical, Electronics, and Computer Engineering
-
-> **Alyzee Yvon Celaya**  
 > CPE106L-4 B3 SOFTWARE DESIGN LABORATORY  
 > **INSTRUCTOR** Erinn Chloe Sanchez  
+
+> by **Alyzee Yvon Celaya (@alyzcly)**  
+> Computer Engineering Junior  
 > _Created on Saturday, August 22, 2026_
 
 ## About  
@@ -21,7 +22,7 @@ At the end of this laboratory, the student should be able to:
 4. Collaborate using GitHub features.
 5. Demonstrate proper documentation and coding standards.
 
-## 🛠️ Laboratory Tasks
+## 🚩 Laboratory Tasks
 1. **Software Development Tools and Standards**  
 The first task involves identifying software development tools and describing their purposes. The activity also covers coding standards and best practices commonly used in software development.  
 📄 **Related File:** [`Tools_and_Standards.md`](Tools_and_Standards.md)
