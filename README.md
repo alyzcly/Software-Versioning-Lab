@@ -18,7 +18,7 @@ This repository contains the requirements and outputs for **Laboratory 1** of **
 The laboratory focuses on software development tools and standards, GitHub repository management, Git version control, collaboration through GitHub, and proper documentation and coding practices. The activity simulates the responsibilities of a junior software developer working in a software company where GitHub is used for source code management and software quality is maintained through coding standards and documentation.
 
 ---
-
+# Laboratory 1
 ## 🎯 Learning Outcomes  
 1. Identify software development tools and standards used in software projects.
 2. Create and manage a GitHub repository.
@@ -26,7 +26,7 @@ The laboratory focuses on software development tools and standards, GitHub repos
 4. Collaborate using GitHub features.
 5. Demonstrate proper documentation and coding standards.
 
-## 🚩 Laboratory Tasks
+## 🚩 Tasks
 1. **Software Development Tools and Standards**  
 The first task involves identifying software development tools and describing their purposes. The activity also covers coding standards and best practices commonly used in software development.  
 📄 **Related File:** [`Tools_and_Standards.md`](Tools_and_Standards.md)
