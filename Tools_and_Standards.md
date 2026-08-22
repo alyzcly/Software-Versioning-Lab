@@ -1,6 +1,5 @@
 # Development Tools and Standards
-> **Alyzee Yvon Celaya**  
-> 3rd-year Computer Engineering student  
+> by **Alyzee Yvon Celaya (@alyzcly)**
 > _Created on Saturday, August 22, 2026_
 
 ---
