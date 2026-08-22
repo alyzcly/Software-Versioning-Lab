@@ -1,5 +1,5 @@
 # Development Tools and Standards
-> by **Alyzee Yvon Celaya (@alyzcly)**
+> by **Alyzee Yvon Celaya (@alyzcly)**  
 > _Created on Saturday, August 22, 2026_
 
 ---
