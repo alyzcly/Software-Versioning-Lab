@@ -5,7 +5,7 @@ School of AI, Electrical, Electronics, and Computer Engineering
 > **INSTRUCTOR** Erinn Chloe Sanchez  
 
 > by **Alyzee Yvon Celaya (@alyzcly)**  
-> Computer Engineering Junior  
+> 3rd-year Computer Engineering student  
 > _Created on Saturday, August 22, 2026_
 
 ## About  
