@@ -1,14 +1,19 @@
  # Software-Versioning-Lab 
-Mapúa University  
-School of AI, Electrical, Electronics, and Computer Engineering
-> CPE106L-4 B3 SOFTWARE DESIGN LABORATORY  
-> **INSTRUCTOR** Erinn Chloe Sanchez  
-
-> by **Alyzee Yvon Celaya (@alyzcly)**  
+> Repository by **Alyzee Yvon Celaya (@alyzcly)**  
 > 3rd-year Computer Engineering student  
 > _Created on Saturday, August 22, 2026_
 
 ## About  
+Mapúa University  
+School of AI, Electrical, Electronics, and Computer Engineering (AIECEE)  
+CPE106L-4 B3 SOFTWARE DESIGN LABORATORY  
+ 
+> Erinn Chloe Sanchez  
+> **INSTRUCTOR** 
+
+Laboratory Report 1  
+**Software Relevant Tools, Standards, and Code Versioning using GitHub**
+
 This repository contains the requirements and outputs for **Laboratory 1** of **CPE106L-4 SOFTWARE DESIGN LABORATORY**  
 The laboratory focuses on software development tools and standards, GitHub repository management, Git version control, collaboration through GitHub, and proper documentation and coding practices. The activity simulates the responsibilities of a junior software developer working in a software company where GitHub is used for source code management and software quality is maintained through coding standards and documentation.
 
