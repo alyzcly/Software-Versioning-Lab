@@ -41,9 +41,12 @@ const int MAX_STUDENTS = 50;
 2. **Consistent Formatting and Indentation**  
 Code should follow a consistent format, including proper indentation, spacing, and placement of brackets. A consistent style improves readability and helps maintain a uniform structure when multiple developers work on the same project.
 ```cpp
-if (score >= 75) {
+if (score >= 75)
+{
     cout << "Passed";
-} else {
+}
+else
+{
     cout << "Failed";
 }
 ```
