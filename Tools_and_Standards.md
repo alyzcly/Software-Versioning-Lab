@@ -1,4 +1,7 @@
 # Development Tools and Standards
+> **Alyzee Yvon Celaya**  
+> 3rd-year Computer Engineering student  
+> _Created on Saturday, August 22, 2026_
 
 ## ⚙️ Development Tools  
 1. **Visual Studio Code (VS Code)**  
