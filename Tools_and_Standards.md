@@ -3,6 +3,8 @@
 > 3rd-year Computer Engineering student  
 > _Created on Saturday, August 22, 2026_
 
+---
+
 ## ⚙️ Development Tools  
 1. **Visual Studio Code (VS Code)**  
 Visual Studio Code is a source-code editor used for writing, editing, and debugging programs. It supports many programming languages and provides features such as syntax highlighting, extensions, debugging tools, and an integrated terminal.  
