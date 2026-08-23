@@ -1,5 +1,5 @@
  # Software-Versioning-Lab 
-> Repository by **Alyzee Yvon Celaya (@alyzcly)**  
+> Repository by **Alyzee Yvon Celaya (alyzcly)**  
 > 3rd-year Computer Engineering student  
 > _Created on Saturday, August 22, 2026_
 
