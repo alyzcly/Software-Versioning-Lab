@@ -1,5 +1,5 @@
 # Git Version Control
-> by **Alyzee Yvon Celaya (@alyzcly)**  
+> by **Alyzee Yvon Celaya (alyzcly)**  
 > _Created on Saturday, August 22, 2026_
 
 ---
